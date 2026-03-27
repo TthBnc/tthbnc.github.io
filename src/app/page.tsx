@@ -153,7 +153,7 @@ export default function Home() {
                 href="https://github.com/TthBnc"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 text-sm text-[#666] transition-colors duration-300 hover:text-[#a78bfa]"
+                className="flex items-center gap-2 text-sm text-[#666] transition-colors duration-300 hover:text-[#f97316]"
               >
                 <GitHubIcon className="h-4 w-4" />
                 GitHub
@@ -163,7 +163,7 @@ export default function Home() {
                 href="https://podiumprophets.com"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-sm text-[#666] transition-colors duration-300 hover:text-[#a78bfa]"
+                className="text-sm text-[#666] transition-colors duration-300 hover:text-[#f97316]"
               >
                 Podium Prophets
               </a>
@@ -224,18 +224,18 @@ export default function Home() {
               rel="noopener noreferrer"
               className="group block"
             >
-              <div className="rounded-2xl border border-[#1a1a1a] bg-[#0a0a0a] p-8 transition-all duration-500 group-hover:border-[#a78bfa]/30 group-hover:shadow-[0_0_80px_-20px_rgba(167,139,250,0.12)] md:p-12">
+              <div className="rounded-2xl border border-[#1a1a1a] bg-[#0a0a0a] p-8 transition-all duration-500 group-hover:border-[#f97316]/30 group-hover:shadow-[0_0_80px_-20px_rgba(249,115,22,0.12)] md:p-12">
                 {/* header */}
                 <div className="flex items-start justify-between gap-4">
                   <div>
-                    <h2 className="font-display text-2xl font-bold tracking-tight transition-colors duration-300 group-hover:text-[#a78bfa] md:text-3xl">
+                    <h2 className="font-display text-2xl font-bold tracking-tight transition-colors duration-300 group-hover:text-[#f97316] md:text-3xl">
                       Podium Prophets
                     </h2>
                     <p className="mt-1.5 text-sm text-[#555]">
                       podiumprophets.com
                     </p>
                   </div>
-                  <ArrowUpRight className="mt-1.5 shrink-0 text-[#333] transition-all duration-300 group-hover:translate-x-1 group-hover:-translate-y-1 group-hover:text-[#a78bfa]" />
+                  <ArrowUpRight className="mt-1.5 shrink-0 text-[#333] transition-all duration-300 group-hover:translate-x-1 group-hover:-translate-y-1 group-hover:text-[#f97316]" />
                 </div>
 
                 {/* description — SEO-rich context around the backlink */}
@@ -280,7 +280,7 @@ export default function Home() {
                 href="https://github.com/TthBnc"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group flex w-fit items-center gap-3 text-lg text-[#888] transition-colors duration-300 hover:text-[#a78bfa]"
+                className="group flex w-fit items-center gap-3 text-lg text-[#888] transition-colors duration-300 hover:text-[#f97316]"
               >
                 <GitHubIcon className="h-5 w-5" />
                 <span>GitHub</span>
@@ -288,7 +288,7 @@ export default function Home() {
               </a>
               <a
                 href="mailto:bence.zltn.toth@gmail.com"
-                className="group flex w-fit items-center gap-3 text-lg text-[#888] transition-colors duration-300 hover:text-[#a78bfa]"
+                className="group flex w-fit items-center gap-3 text-lg text-[#888] transition-colors duration-300 hover:text-[#f97316]"
               >
                 <MailIcon className="h-5 w-5" />
                 <span>Email</span>
